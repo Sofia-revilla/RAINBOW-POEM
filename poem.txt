@@ -4,9 +4,9 @@ Red
 Orange
 Yellow
 Green
+Indigo
 Blue
 Unicorn
-Indigo
 Violet
 
 These colors appear right after the rain,
